@@ -43,7 +43,10 @@ sidebar:
 
       - item: Bike Rides
         link:
-
+    
+    Certifications:
+    - item: AWS Certified Solutions Architect - Associate
+      link: 
 career-profile:
     title: Career Profile
     summary: |
