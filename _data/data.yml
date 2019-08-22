@@ -82,17 +82,17 @@ experiences:
       company: Netrix LLC
       details: |
    
-          - Hands on Experience in Linux servers, configuring ssh, Mysql, Networking, System administration, Telecom ss7 technologies.
+          - Hands on Experience in Linux servers, configuring ssh, Mysql, Networking, System administration.
           -	Installing and configuring a new Ubuntu server with all necessary packages for development like RVM rubies, Nginx, Kannel etc.
           -	Assist Engineering Lead – Operations in technology transformations for the Operations division.
           -	Identify bugs and work closely with DEV team on fixing them.
-          -	Familiarity with Amazon AWS (EC2, RDS, S3) 
+          -	Familiarity with Amazon AWS (EC2, RDS, S3, Cloudfront,Load Balancing, Route53) 
           - Automation using Ansible playbooks.
-          - Configured Nagios Plugin(ICINGA).
+          - Configured Nagios.
           - CI/CD using Gitlab Runners.
           -	Network troubleshooting (including iptables, firewalls).
-          -	Complete knowledge of in house applications for SMS promotions and USSD.
-          -	Automating reports from Mysql Databases using bash script.
+          -	.
+          -	
 skills:
     title: Skills &amp; Proficiency
 
