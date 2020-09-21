@@ -16,7 +16,7 @@ sidebar:
     phone: +91-7736325154
     website:  #do not add http://
     linkedin: praveen-thomas-1673b884/
-    github: newtechs19
+    github: praveen03git
     gitlab:
     bitbucket:
     twitter: 
@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Enthusiastic IT professional with 5+ years of qualified experience and proven
+      Enthusiastic IT professional with 6+ years of qualified experience and proven
       record of significant and successful contribution to projects.
       Significant expertise in Linux server administration, application deployment
       using Capistrano, maintaning Gitlab repositories, automation using ansible playbooks.
@@ -62,6 +62,19 @@ education:
       university: Anna University Tamil Nadu
       time: 2009 - 2013
       
+experiences:
+    - role: Data Management Engineer
+      time: December 2019 - Present
+      company: Happiest Minds Technologies  Pvt Ltd (EY on contract)
+      details: |
+          -	Accomplished Deployment automation using python azure devops
+          - Working on archival project backend as postgresql
+          - Migrating data from oracle db to postgresql, using sql queries to manage db's
+          - Implementation of Backup/Retention policy using bash scripts.
+          -	Automating daily reports from Database using bash script.
+          -	Setting up environments in aws with high availability
+          -	Managing data transfer in EY networks
+          - Mounting numerous disks to linux server's with scripts to fasten the drive mounts.
 
 experiences:
     - role: Application Support Engineer
